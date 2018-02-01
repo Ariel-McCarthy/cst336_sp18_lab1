@@ -3,6 +3,10 @@ body
     background-color: black;
     color: gray;
 }
+header
+{
+    font-family: 'Tangerine', cursive;
+}
 header, nav, footer
 {
     text-align: center;

@@ -7,33 +7,36 @@
         <link href = "CSS/styles.css" rel = "stylesheet" type = "text/css" />
     </head>
     <body>
-    <nav>
-        <hr width = "50%"/>
-        <a href = "index.php" id = "homeColor">Home</a>
-        <a href = "about.html">About</a>
-        <a href = "contact.html">Contact</a>
-    </nav>
+        <header>
+            Sovreign-Ariel S. McCarthy
+        </header>
+        <nav>
+            <hr width = "50%"/>
+            <a href = "index.php" id = "homeColor">Home</a>
+            <a href = "about.html">About</a>
+            <a href = "contact.html">Contact</a>
+        </nav>
 
-    <main>
-        <figure id = "me">
-            <img src = "img/ariel.jpg"> <!--//relative file path (not absolute)-->
-        </figure>
-        
-        <div id = "welcomeText">
-            Hello! <br/>
-            <p>
-                Thank you for visiting my portfolio.
-            </p>
-            <p>
-                I am a junior who is in school for software engineering.
-            </p>
+        <main>
+            <figure id = "me">
+                <img src = "img/ariel.jpg"> <!--//relative file path (not absolute)-->
+            </figure>
             
-            <br/><br/>
-            <em>
-                I <strong>love</strong> to play hacky sack in my free time!
-            </em>
-        </div>
-    </main>
+            <div id = "welcomeText">
+                Hello! <br/>
+                <p>
+                    Thank you for visiting my portfolio.
+                </p>
+                <p>
+                    I am a junior who is in school for software engineering.
+                </p>
+                
+                <br/><br/>
+                <em>
+                    I <strong>love</strong> to play hacky sack in my free time!
+                </em>
+            </div>
+        </main>
         <footer>
             <hr>
             CST 336-02_SP18 <br/>

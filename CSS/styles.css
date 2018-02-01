@@ -3,7 +3,7 @@ body
     background-color: black;
     color: gray;
 }
-nav, footer
+header, nav, footer
 {
     text-align: center;
 }
